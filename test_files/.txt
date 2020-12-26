@@ -1,0 +1,3 @@
+THE SENTENCE YOU ENTERED WAS: Hello, I am happy.
+THE CLEANED INPUT WAS: hello i am happy
+THE SPELLCHECKED SENTENCE IS: hello i am happy

@@ -1,0 +1,10 @@
+TIME OF SPELLCHECKING: Thu Nov  5 00:00:42 2020
+TIME TAKEN 0:00:25.131532
+WORDS INPUTTED: 15
+CORRECT SPELLINGS: 12
+INCORRECT SPELLINGS: 3
+WORDS ADDED TO DICTIONARY: 0
+CHANGED WORDS: 3
+THE SENTENCE YOU ENTERED WAS: Hello my nade is Hamza Latif nd i am heere to tell you about celery.
+THE CLEANED INPUT WAS: hello my nade is hamza latif nd i am heere to tell you about celery
+THE SPELLCHECKED SENTENCE IS: hello my name is hamza latif and i am here to tell you about celery

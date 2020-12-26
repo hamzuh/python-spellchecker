@@ -1,0 +1,10 @@
+TIME OF SPELLCHECKING: Thu Nov  5 00:01:12 2020
+TIME TAKEN 0:00:00
+WORDS INPUTTED: 15
+CORRECT SPELLINGS: 15
+INCORRECT SPELLINGS: 0
+WORDS ADDED TO DICTIONARY: 0
+CHANGED WORDS: 0
+THE SENTENCE YOU ENTERED WAS: hello my name is hamza latif and i am here to tell you about celery
+THE CLEANED INPUT WAS: hello my name is hamza latif and i am here to tell you about celery
+THE SPELLCHECKED SENTENCE IS: hello my name is hamza latif and i am here to tell you about celery
